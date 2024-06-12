@@ -1,3 +1,10 @@
+# Generate Release.aar [1.0.4]
+- Open repo in Android Studio & gradle sync
+- In the terminal run the following cmd:
+```
+./gradlew assembleRelease
+```
+- The aar file will be generated in `app/build/outputs/aar/accept-sdk-android-release.aar`
 
 # Authorize.Net Accept Mobile SDK for Android  
 
